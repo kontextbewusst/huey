@@ -11,7 +11,7 @@
     "test": "test"
   },
   "dependencies": {
-    "get-image-data": "git+https://github.com/kontextbewuss/get-image-data.git",
+    "get-image-data": "git+https://github.com/kontextbewusst/get-image-data.git",
     "brfs": "~0.0.8"
   },
   "devDependencies": {
